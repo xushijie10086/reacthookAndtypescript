@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.app {
+  text-align: center;
+  padding: 50px;
+  border-radius: 8px;
+  background-color: #fff;
+  min-width: 600px;
+}
