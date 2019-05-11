@@ -32,14 +32,12 @@ const App = () => {
   ));
 
   return (
-    <>
       <div className="container">
         <div className="app">
           {exampleButtons}
           <ExampleComponent />
         </div>
       </div>
-    </>
   );
 };
 
